@@ -7,9 +7,9 @@ CIVL-C-Syntax-vim
 
 Installation Guide
 -----------------------------
-1.  Download the <code>civl-c.vim</code> file to your vim syntax file directory (mine is <code>/usr/share/vim/vim74/syntax/</code>). You might need sudo to complete the copy.
+1.  Download the <code>civl-c.vim</code> file to your vim syntax file directory (mine is <code>/usr/share/vim/vim74/syntax/</code> ). You might need sudo to complete the copy.
 
-2.  in /usr/share/vim/vim74/syntax/filetype.vim:
+2.  in <code>/usr/share/vim/vim74/syntax/filetype.vim</code> :
 add the following to lines in some proper place (I did it after the cpp lines)
 
 <pre><code>    " CIVL-C
@@ -19,7 +19,7 @@ add the following to lines in some proper place (I did it after the cpp lines)
 (notice: there's NO blank between the comma and BufRead)
 
 
-Now open a .cvl file with vim and it'll work~~
+Now open a <code>.cvl</code> file with vim and it'll work~~
 
 Bug Report
 -----------------------------

@@ -3,7 +3,7 @@ CIVL-C-Syntax-vim
 
   A vim syntax plugin to support syntactic highlighting for CIVL-C, a programming language designed and developed by the Verified Software Laboratory in the University of Delaware.
 
-  The idea of writing this syntax file was inspired by William Killian who wrote the its Emacs version. I then wrote the vim version because I'm a vim user and am not comfortable with Emacs, and want to do some good to other vim users.
+  I was inspired by William Killian who wrote the its Emacs version. I then wrote the vim version because I'm a vim user and am not comfortable with Emacs, and want to do some good to other vim users.
 
 Installation Guide
 -----------------------------

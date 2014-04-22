@@ -1,8 +1,8 @@
 " Vim syntax file
 " Language:     	CIVL-C
 " Maintainer:	        Yuqi Liu <liuyuqi.crh@gmail.com>
-" Last Change:	        2014 Mar 24
-" Idea came from:   W. Killian (github: willkill07) 
+" Last Change:	        2014 Mar 18
+" Idea came from:   William Killian (github: willkill07) 
 
 " Read the C syntax to start with
 so <sfile>:p:h/c.vim
